@@ -1,4 +1,9 @@
 {
+  "functions": {
+    "api/rework/oauth/[...path].js": {
+      "includeFiles": "server/**"
+    }
+  },
   "rewrites": [
     {
       "source": "/rework/oauth/:path*",
