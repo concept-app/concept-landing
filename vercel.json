@@ -4,6 +4,12 @@
       "includeFiles": "server/**"
     }
   },
+  "rewrites": [
+    {
+      "source": "/api/v1/rework/oauth/:path*",
+      "destination": "/api/v1/rework/oauth/[...path]"
+    }
+  ],
   "headers": [
     {
       "source": "/api/v1/rework/oauth/:path*",
