@@ -1,1 +1,9 @@
-{}
+{
+  "redirects": [
+    {
+      "source": "/start",
+      "destination": "https://conceptdev.notion.site/",
+      "permanent": false
+    }
+  ]
+}
