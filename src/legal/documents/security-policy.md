@@ -38,10 +38,14 @@ Concept maintains an incident response process designed to identify, investigate
 
 Customer data is retained only as long as necessary to provide the services or as required by applicable law. Upon termination of services or upon customer request, Concept deletes customer data in accordance with its data retention practices.
 
-## 9. Security Program Maturity
+## 9. Personnel Security
 
-Concept is actively building its security program and has engaged third-party tooling to support ongoing security compliance efforts. Security controls and practices are reviewed and improved over time as the company grows.
+All Concept personnel with access to customer data are required to complete security awareness training and are bound by confidentiality obligations. Access is reviewed and adjusted as roles change.
 
-## 10. Contact
+## 10. Security Program Maturity
 
-Security questions or concerns may be directed to [contact@concept.dev](mailto:contact@concept.dev).
+Concept is actively building its security program and is pursuing independent third-party compliance certifications, including SOC 2. Concept has engaged third-party tooling to support ongoing security compliance efforts. Security controls and practices are reviewed and improved over time as the company grows.
+
+## 11. Contact
+
+Security questions or concerns may be directed to [security@concept.dev](mailto:security@concept.dev).

@@ -119,6 +119,8 @@ Concept implements administrative, technical, and organizational safeguards desi
 
 Access to Customer Data is restricted to authorized Concept personnel who require access to provide the Services and who are bound by confidentiality obligations. Concept maintains logical separation of Customer Data across customer environments.
 
+In the event of a confirmed security incident affecting personal data, Concept will notify affected customers without undue delay, consistent with applicable law and contractual obligations.
+
 Additional details are available in Concept's Security Policy.
 
 ## 8. Data Retention and Deletion

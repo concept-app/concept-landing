@@ -44,6 +44,14 @@ The Services include AI-powered features generating outputs based on customer-pr
 - Users are solely responsible for reviewing, verifying, and validating outputs before taking action based on them
 - Concept does not guarantee accuracy, completeness, or reliability of outputs
 
+Users agree not to use AI features to:
+
+- Generate spam, phishing content, or deceptive communications
+- Produce content that infringes third-party intellectual property rights
+- Harass, threaten, or impersonate individuals
+- Circumvent safety measures, filters, or usage limits
+- Generate content that violates applicable laws or regulations
+
 ## 5. Customer Data and Integrations
 
 Users retain all rights to data provided to or accessible through the Services ("Customer Data"). By using the Services, users grant Concept a limited right to access, process, and use Customer Data solely to provide, maintain, secure, and support the Services per user instructions.
@@ -127,7 +135,7 @@ Concept may update these Terms from time to time. Material changes will be notif
 
 ## 15. General Provisions
 
-Entire Agreement: These Terms, together with any applicable subscription agreement and Privacy Policy, constitute the entire agreement regarding the Services.
+Entire Agreement: These Terms, together with any applicable subscription agreement, Privacy Policy, and Data Processing Agreement, constitute the entire agreement regarding the Services.
 
 Severability: If any provision is found unenforceable, remaining provisions continue in full force and effect.
 

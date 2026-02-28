@@ -4,7 +4,7 @@ lastEdited: February 27, 2026
 
 # Data Processing Agreement
 
-This Data Processing Agreement ("DPA") is entered into between Concept AI Labs, Inc. ("Provider") and the entity agreeing to these terms ("Customer"). This DPA forms part of the Agreement between Provider and Customer for the provision of the Services.
+This Data Processing Agreement ("DPA") is entered into between Concept AI Labs, Inc. ("Provider") and the entity agreeing to these terms ("Customer"). This DPA forms part of the Agreement between Provider and Customer for the provision of the Services. Where this DPA references a Cover Page or Annexes, those details are completed upon execution of a customer agreement or order form incorporating this DPA.
 
 ## 1. Processor and Subprocessor Relationships
 
@@ -61,9 +61,9 @@ This Data Processing Agreement ("DPA") is entered into between Concept AI Labs, 
 
 5.1 Audit Rights. Provider supplies all information reasonably necessary demonstrating DPA compliance and allows/contributes to Customer audits, including inspections, assessing DPA compliance. However, Provider may restrict data/information access if Customer access negatively impacts Provider's intellectual property rights, confidentiality obligations, or other Applicable Laws obligations. Customer acknowledges agreeing to exercise DPA and Applicable Data Protection Laws audit rights only by instructing Provider to comply with below reporting/due diligence requirements. Provider maintains DPA compliance records for 3 years post-DPA expiration.
 
-5.2 Security Reports. Customer acknowledges Provider undergoes regular independent third-party audits against Security Policy-defined standards. Upon written request, Provider supplies Customer, on confidential basis, its then-current Report summary copy allowing Customer to verify Security Policy-defined standards compliance.
+5.2 Security Reports. Provider is pursuing independent third-party compliance certifications (such as SOC 2) and will undergo audits against Security Policy-defined standards as the security program matures. Upon written request, Provider supplies Customer, on confidential basis, available Report summaries or compliance documentation allowing Customer to verify Security Policy-defined standards compliance.
 
-5.3 Security Due Diligence. Beyond the Report, Provider responds to reasonable Customer information requests confirming DPA compliance, including information security, due diligence, audit questionnaire responses, or additional information security program information. All requests must be written, directed to Provider Security Contact, and made once yearly maximum.
+5.3 Security Due Diligence. Beyond the Report, Provider responds to reasonable Customer information requests confirming DPA compliance, including information security, due diligence, audit questionnaire responses, or additional information security program information. All requests must be written, directed to [security@concept.dev](mailto:security@concept.dev), and made once yearly maximum.
 
 ## 6. Coordination and Cooperation
 
@@ -98,42 +98,44 @@ This Data Processing Agreement ("DPA") is entered into between Concept AI Labs, 
 
 ## 11. Definitions
 
-11.1 "Applicable Laws" means relevant government authority laws, rules, regulations, court orders, and other binding requirements governing or applying to a party.
+11.1 "Affiliates" means any entity that directly or indirectly controls, is controlled by, or is under common control with a party, where "control" means ownership of more than 50% of voting securities or equivalent ownership interest.
 
-11.2 "Applicable Data Protection Laws" means Applicable Laws governing how the Service may process or use individual personal information, personal data, personally identifiable information, or similar terms.
+11.2 "Applicable Laws" means relevant government authority laws, rules, regulations, court orders, and other binding requirements governing or applying to a party.
 
-11.3 "Controller" will have Applicable Data Protection Laws-given meaning(s) for companies determining Personal Data Processing purpose and extent.
+11.3 "Applicable Data Protection Laws" means Applicable Laws governing how the Service may process or use individual personal information, personal data, personally identifiable information, or similar terms.
 
-11.4 "Cover Page" means a document signed or electronically accepted by parties incorporating these DPA Standard Terms and identifying Provider, Customer, and data processing subject matter/details.
+11.4 "Controller" will have Applicable Data Protection Laws-given meaning(s) for companies determining Personal Data Processing purpose and extent.
 
-11.5 "Customer Personal Data" means Personal Data that Customer uploads or provides to Provider as Service part governed by this DPA.
+11.5 "Cover Page" means a document signed or electronically accepted by parties incorporating these DPA Standard Terms and identifying Provider, Customer, and data processing subject matter/details.
 
-11.6 "DPA" means these DPA Standard Terms, the Provider-Customer Cover Page, and policies/documents referenced in or attached to the Cover Page.
+11.6 "Customer Personal Data" means Personal Data that Customer uploads or provides to Provider as Service part governed by this DPA.
 
-11.7 "EEA SCCs" means standard contractual clauses annexed to European Commission's Implementing Decision 2021/914 (4 June 2021) regarding personal data transfer standard contractual clauses to third countries per EU Regulation 2016/679.
+11.7 "DPA" means these DPA Standard Terms, the Provider-Customer Cover Page, and policies/documents referenced in or attached to the Cover Page.
 
-11.8 "European Economic Area" or "EEA" means European Union member states, Norway, Iceland, and Liechtenstein.
+11.8 "EEA SCCs" means standard contractual clauses annexed to European Commission's Implementing Decision 2021/914 (4 June 2021) regarding personal data transfer standard contractual clauses to third countries per EU Regulation 2016/679.
 
-11.9 "GDPR" means EU Regulation 2016/679 as relevant EEA member nation local law-implemented.
+11.9 "European Economic Area" or "EEA" means European Union member states, Norway, Iceland, and Liechtenstein.
 
-11.10 "Personal Data" will have Applicable Data Protection Laws-given meaning(s) for personal information, personal data, or similar terms.
+11.10 "GDPR" means EU Regulation 2016/679 as relevant EEA member nation local law-implemented.
 
-11.11 "Processing" or "Process" will have Applicable Data Protection Laws-given meaning(s) for any Personal Data use or computer operation performance, including automatic methods.
+11.11 "Personal Data" will have Applicable Data Protection Laws-given meaning(s) for personal information, personal data, or similar terms.
 
-11.12 "Processor" will have Applicable Data Protection Laws-given meaning(s) for companies Processing Personal Data on Controller behalf.
+11.12 "Processing" or "Process" will have Applicable Data Protection Laws-given meaning(s) for any Personal Data use or computer operation performance, including automatic methods.
 
-11.13 "Report" means audit reports another company prepared per Security Policy-defined standards on Provider behalf.
+11.13 "Processor" will have Applicable Data Protection Laws-given meaning(s) for companies Processing Personal Data on Controller behalf.
 
-11.14 "Restricted Transfer" means (a) where GDPR applies, EEA-to-outside-EEA personal data transfer lacking European Commission adequacy determination; and (b) where UK GDPR applies, United Kingdom-to-other-country personal data transfer lacking Section 17A UK Data Protection Act 2018-adopted adequacy regulations.
+11.14 "Report" means audit reports another company prepared per Security Policy-defined standards on Provider behalf.
 
-11.15 "Security Incident" means Personal Data Breach as GDPR Article 4-defined.
+11.15 "Restricted Transfer" means (a) where GDPR applies, EEA-to-outside-EEA personal data transfer lacking European Commission adequacy determination; and (b) where UK GDPR applies, United Kingdom-to-other-country personal data transfer lacking Section 17A UK Data Protection Act 2018-adopted adequacy regulations.
 
-11.16 "Service" means the Agreement-described product/services.
+11.16 "Security Incident" means Personal Data Breach as GDPR Article 4-defined.
 
-11.17 "Special Category Data" will have GDPR Article 9-given meaning.
+11.17 "Service" means the Agreement-described product/services.
 
-11.18 "Subprocessor" will have Applicable Data Protection Laws-given meaning(s) for companies that, with Controller approval/acceptance, assist Processors in Controller-behalf Personal Data Processing.
+11.18 "Special Category Data" will have GDPR Article 9-given meaning.
 
-11.19 "UK GDPR" means EU Regulation 2016/679 as United Kingdom's European Union (Withdrawal) Act section 3-implemented (2018) in the United Kingdom.
+11.19 "Subprocessor" will have Applicable Data Protection Laws-given meaning(s) for companies that, with Controller approval/acceptance, assist Processors in Controller-behalf Personal Data Processing.
 
-11.20 "UK Addendum" means the international data transfer addendum to EEA SCCs issued by Information Commissioner for Restricted Transfers-making parties per Data Protection Act 2018 S119A(1).
+11.20 "UK GDPR" means EU Regulation 2016/679 as United Kingdom's European Union (Withdrawal) Act section 3-implemented (2018) in the United Kingdom.
+
+11.21 "UK Addendum" means the international data transfer addendum to EEA SCCs issued by Information Commissioner for Restricted Transfers-making parties per Data Protection Act 2018 S119A(1).
