@@ -89,6 +89,7 @@ function HomePage() {
 }
 
 function LegalIndexPage() {
+  document.title = 'Legal | Concept'
   return (
     <main className="legal-page">
       <div className="legal-shell">
@@ -109,6 +110,7 @@ function LegalIndexPage() {
 }
 
 function LegalDocumentPage({ legalDocument }) {
+  document.title = legalDocument ? `${legalDocument.title} | Concept` : 'Not Found | Concept'
   if (!legalDocument) {
     return (
       <main className="legal-page">
